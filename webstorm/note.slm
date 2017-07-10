@@ -1,0 +1,14 @@
+1、格式化js代码：
+
+2、执行js
+    ctrl + shift + F10
+
+3、执行js控制台没显示console.log字符串
+
+4、统一个窗口打开多个项目
+    File -> settings -> Directories -> Add Content Root 中添加你当前的工程目录
+
+5、编辑操做
+    1）添加快捷操做：file--seting--Editor--live Templates
+    2）删除当前行：ctrl+y
+    3）复制当前行：ctrl+d
